@@ -1,6 +1,6 @@
 * {
   color: white;
-  font-family: 'Arial Narrow' , Arial , sans-serif;
+  font-family: Arial , sans-serif;
   margin: 0;
   padding: 0;
   text-align: center;
@@ -25,8 +25,8 @@ main {
 .planets {
   align-items: center;
   background-color: rgba(255, 255, 255, 0.219);
-  border-radius: 50px;
   border: 1px solid white;
+  border-radius: 50px;
 }
 
 .planets-list {
