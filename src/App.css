@@ -27,7 +27,7 @@ main {
   background-color: rgba(255, 255, 255, 0.219);
   border: 1px solid white;
   border-radius: 50px;
-  margin: 0px 20px 0px 20px;
+  margin: 0 20px;
 }
 
 .planets-list {
@@ -61,7 +61,7 @@ img {
   background-color: rgba(255, 255, 255, 0.219);
   border: 1px solid white;
   border-radius: 50px;
-  margin: 20px 20px 0px 20px;
+  margin: 20px 20px 0;
 }
 
 .missions-list {
